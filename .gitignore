@@ -4,3 +4,4 @@ storage/
 __pycache__/
 *.pyc
 data/*.pdf
+.DS_Store
