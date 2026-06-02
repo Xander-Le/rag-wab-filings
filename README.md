@@ -40,4 +40,4 @@ Extracted to plain text in data/wab-10k-full.txt.
   "I don't know" when the context doesn't cover the question (grounding).
 - The sidebar exposes model choice (Sonnet vs Haiku) and top-k, surfacing
   the cost / quality / latency tradeoffs as product decisions.
-- Currently indexes the 10-K only; an FDIC Call Report can be added to data/.
+- Currently indexes the 10-K only; an FDIC Call Report can be added to data.
